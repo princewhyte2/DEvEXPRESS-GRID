@@ -1,0 +1,12 @@
+#dataGrid {
+  height: 500px;
+}
+
+.employee-notes {
+  padding-top: 20px;
+  text-align: justify;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
